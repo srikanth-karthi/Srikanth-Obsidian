@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"535199b090c16649","type":"text","text":"Presidio","x":-400,"y":-20,"width":250,"height":60,"color":"3"},
+		{"id":"2ee0d6a1e1ff73e0","type":"text","text":"\t\t2024","x":-140,"y":-360,"width":250,"height":50},
+		{"id":"ef74733284ce1727","type":"file","file":"Presidio/Presidio.md","x":-619,"y":127,"width":400,"height":400},
+		{"id":"277223a61162f47c","type":"text","text":"50 L -- Hdfc life","x":900,"y":-80,"width":250,"height":60,"color":"1"},
+		{"id":"bdd21178bdbed140","type":"text","text":"1000","x":1245,"y":5,"width":130,"height":50},
+		{"id":"728c43315499acd1","type":"text","text":"\tNJ E WELTH","x":1275,"y":-140,"width":250,"height":60},
+		{"id":"3650c17faa373e51","type":"text","text":"1000","x":1400,"y":5,"width":125,"height":50},
+		{"id":"fcfc8a43bf39b7d5","type":"text","text":"\t\tGROW","x":1580,"y":-140,"width":250,"height":60},
+		{"id":"45929908b657e1f4","type":"text","text":"\t\t500","x":1580,"y":-5,"width":250,"height":60},
+		{"id":"dc53fe23862660ea","type":"text","text":"\tInvesment","x":1060,"y":-532,"width":250,"height":60},
+		{"id":"43e37d4a3e37ab21","type":"text","text":"> \t\t4000","x":600,"y":-110,"width":250,"height":60},
+		{"id":"71c1a6930569bf0f","type":"text","text":"\t\tSIP","x":1455,"y":-313,"width":250,"height":60},
+		{"id":"e602613ac159b960","type":"text","text":"\tTerm Insurance","x":1025,"y":-313,"width":250,"height":60},
+		{"id":"8a0dcb9e47d9ac7e","type":"text","text":"\t\tGROW","x":600,"y":-313,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"2e62ad9b318fe94c","fromNode":"535199b090c16649","fromSide":"bottom","toNode":"ef74733284ce1727","toSide":"top"},
+		{"id":"edd9b7c74771c9f8","fromNode":"2ee0d6a1e1ff73e0","fromSide":"bottom","toNode":"535199b090c16649","toSide":"top"},
+		{"id":"840e1aee944ee85f","fromNode":"dc53fe23862660ea","fromSide":"bottom","toNode":"e602613ac159b960","toSide":"top"},
+		{"id":"c6c17e4029ec2c55","fromNode":"e602613ac159b960","fromSide":"bottom","toNode":"277223a61162f47c","toSide":"top"},
+		{"id":"2ec016f6bad73191","fromNode":"dc53fe23862660ea","fromSide":"bottom","toNode":"71c1a6930569bf0f","toSide":"top","color":"1","label":">= 5000"},
+		{"id":"889760aa68520e1d","fromNode":"71c1a6930569bf0f","fromSide":"bottom","toNode":"728c43315499acd1","toSide":"top"},
+		{"id":"78d83c44b25674e3","fromNode":"728c43315499acd1","fromSide":"bottom","toNode":"bdd21178bdbed140","toSide":"top"},
+		{"id":"33d640c9cee3f00c","fromNode":"728c43315499acd1","fromSide":"bottom","toNode":"3650c17faa373e51","toSide":"top"},
+		{"id":"1ce47eb698eb5cf5","fromNode":"71c1a6930569bf0f","fromSide":"bottom","toNode":"fcfc8a43bf39b7d5","toSide":"top"},
+		{"id":"0417939f21e33138","fromNode":"dc53fe23862660ea","fromSide":"left","toNode":"8a0dcb9e47d9ac7e","toSide":"top"},
+		{"id":"211cb0ccfa6b8b73","fromNode":"8a0dcb9e47d9ac7e","fromSide":"bottom","toNode":"43e37d4a3e37ab21","toSide":"top"},
+		{"id":"1a32d2fafc45274d","fromNode":"fcfc8a43bf39b7d5","fromSide":"bottom","toNode":"45929908b657e1f4","toSide":"top"}
+	]
+}
