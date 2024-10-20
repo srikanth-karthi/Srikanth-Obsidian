@@ -4,22 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bbbcb3d481f19626",
+        "id": "3dd2614af38bb208",
         "type": "tabs",
         "children": [
           {
-            "id": "2db5cab61cc1dd15",
+            "id": "413606b9dca2b03a",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "PLAN.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 981.6346766546093,
+                  "y": 1050.0459510779283,
+                  "zoom": -1.099327138862842
                 }
-              }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "PLAN"
             }
           }
         ]
@@ -42,7 +44,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -57,7 +61,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -65,7 +71,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -88,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "PLAN.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +104,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for PLAN"
             }
           },
           {
@@ -105,10 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "PLAN.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PLAN"
             }
           },
           {
@@ -119,7 +131,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -128,8 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
-              }
+                "file": "PLAN.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of PLAN"
             }
           }
         ]
@@ -149,43 +165,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2db5cab61cc1dd15",
+  "active": "413606b9dca2b03a",
   "lastOpenFiles": [
     "PLAN.canvas",
-    "Untitled.canvas",
+    "Assets/output (3).png",
     "Srikanth.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "README.md",
+    "Devops/Address Record.md",
+    "Presidio/Day 2.md",
+    "Assets/output (2).png",
+    "Assets/output (2) 1.png",
+    "Assets/Pasted image 20241018204509.png",
+    "Assets/Pasted image 20241018204411.png",
+    "Assets/Pasted image 20241018204403.png",
+    "Assets/Updated_Monthly_Financial_Plan_with_Total.csv",
+    "Assets/Pasted image 20241015181639.png",
+    "Devops/SAN,NAS.md",
+    "SMS Delivery Plan and API Reference.xlsx",
+    "Screenshorts",
     "Assets/Pasted image 20241003145836.png",
     "Assets/Pasted image 20241003222357.png",
     "Assets/Pasted image 20241003222304.png",
-    "Assets/Pasted image 20241003114300.png",
-    "Assets/Pasted image 20241003111036.png",
-    "Assets/Pasted image 20240925122412.png",
-    "Assets/Pasted image 20240925115537.png",
-    "Assets/Pasted image 20240925113544.png",
     "Devops/On Prem Servers.md",
     "Devops/SSL,TLS.md",
     "Devops/Dns.md",
     "Devops/Devops.md",
     "Devops/linux Cmds.md",
     "Assets/1-Linux+Structure.pdf",
-    "Assets/WhatsApp Image 2024-09-30 at 3.03.57 PM.jpeg",
     "Devops/Virutualization.md",
     "Devops/Bash Scripting.md",
     "Devops/Bandit.md",
-    "Address Record.md",
     "Devops/Router,HUB,Switch.md",
-    "Devops/SAN,NAS.md",
     "Devops/Neworking.md",
     "Devops/Stand up Comedy Scripts.md",
     "Devops/Linux file system.md",
-    "Presidio/Day 2.md",
     "Presidio/Devops Task.md",
-    "Untitled 1.canvas",
     "Presidio/Presidio.md",
     "2024-09-26.md",
     "Presidio",
     "2024-09-25.md",
-    "Pasted image 20240925121948.png",
     "Assets",
     "Welcome.md",
     "challenge.md",

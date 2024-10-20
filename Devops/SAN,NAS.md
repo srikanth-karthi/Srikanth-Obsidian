@@ -3,15 +3,15 @@ SAN (Storage Area Network) and NAS (Network Attached Storage) are two types of d
 ### **SAN (Storage Area Network)**
 
 1. **What is SAN?**
-   A Storage Area Network (SAN) is a high-speed network that provides access to block-level storage. SAN devices are typically used in enterprise environments where large amounts of data need to be accessed quickly by multiple servers. SAN uses a dedicated network for storage (usually Fibre Channel or iSCSI) and allows servers to treat remote storage as if it were local.
+A Storage Area Network (SAN) is a high-speed network that provides access to block-level storage. SAN devices are typically used in enterprise environments where large amounts of data need to be accessed quickly by multiple servers. SAN uses a dedicated network for storage (usually Fibre Channel or iSCSI) and allows servers to treat remote storage as if it were local.
 
-2. **Key Features of SAN:**
+3. **Key Features of SAN:**
    - **Block-Level Access**: SAN operates at the block level, meaning servers can access raw blocks of data directly, making SAN ideal for databases, applications, and virtualized environments.
    - **High Performance**: SAN systems offer low-latency, high-throughput connections, making them suitable for mission-critical applications.
    - **Scalability**: SANs are easily scalable in terms of capacity and performance, and they allow businesses to add more storage without disrupting operations.
    - **Protocols**: Common SAN protocols include Fibre Channel (FC), iSCSI, and Fibre Channel over Ethernet (FCoE).
 
-3. **Common SAN Equipment:**
+4. **Common SAN Equipment:**
    - **Fibre Channel Switches**: These switches connect servers and storage devices in a SAN. Examples include Cisco MDS and Brocade SAN switches.
    - **Storage Arrays**: These are the actual storage devices used in SANs, like Dell EMC PowerStore or NetApp AFF systems.
    - **Host Bus Adapters (HBAs)**: These connect servers to the SAN fabric and handle data transfer over the network. Examples are Emulex or QLogic HBAs.
