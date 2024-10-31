@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3dd2614af38bb208",
+        "id": "61c4998ea7fc6fe4",
         "type": "tabs",
         "children": [
           {
-            "id": "413606b9dca2b03a",
+            "id": "055f6beca0322b22",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "PLAN.canvas",
                 "viewState": {
-                  "x": 981.6346766546093,
-                  "y": 1050.0459510779283,
-                  "zoom": -1.099327138862842
+                  "x": 2125.8116605113396,
+                  "y": 889.3452758083613,
+                  "zoom": -0.7771355992313663
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -76,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,15 +166,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "413606b9dca2b03a",
+  "active": "055f6beca0322b22",
   "lastOpenFiles": [
     "PLAN.canvas",
-    "Assets/output (3).png",
+    "Assets/Pasted image 20241030124541.png",
+    "Assets/Pasted image 20241030124453.png",
     "Srikanth.md",
+    "Devops/Terraform.md",
+    "Devops/Linux file system.md",
+    "Devops/linux Cmds.md",
+    "Devops/Devops.md",
+    "Devops/Bash Scripting.md",
+    "Devops/Address Record.md",
+    "Assets/output (3).png",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "README.md",
-    "Devops/Address Record.md",
     "Presidio/Day 2.md",
     "Assets/output (2).png",
     "Assets/output (2) 1.png",
@@ -186,21 +194,15 @@
     "SMS Delivery Plan and API Reference.xlsx",
     "Screenshorts",
     "Assets/Pasted image 20241003145836.png",
-    "Assets/Pasted image 20241003222357.png",
-    "Assets/Pasted image 20241003222304.png",
     "Devops/On Prem Servers.md",
     "Devops/SSL,TLS.md",
     "Devops/Dns.md",
-    "Devops/Devops.md",
-    "Devops/linux Cmds.md",
     "Assets/1-Linux+Structure.pdf",
     "Devops/Virutualization.md",
-    "Devops/Bash Scripting.md",
     "Devops/Bandit.md",
     "Devops/Router,HUB,Switch.md",
     "Devops/Neworking.md",
     "Devops/Stand up Comedy Scripts.md",
-    "Devops/Linux file system.md",
     "Presidio/Devops Task.md",
     "Presidio/Presidio.md",
     "2024-09-26.md",
