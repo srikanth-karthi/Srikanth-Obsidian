@@ -1,8 +1,5 @@
 {
 	"nodes":[
-		{"id":"535199b090c16649","type":"text","text":"Presidio","x":-400,"y":-20,"width":250,"height":60,"color":"3"},
-		{"id":"2ee0d6a1e1ff73e0","type":"text","text":"\t\t2024","x":-140,"y":-360,"width":250,"height":50},
-		{"id":"ef74733284ce1727","type":"file","file":"Presidio/Presidio.md","x":-619,"y":127,"width":400,"height":400},
 		{"id":"71c1a6930569bf0f","type":"text","text":"\t\tSIP","x":1455,"y":-313,"width":250,"height":60},
 		{"id":"e602613ac159b960","type":"text","text":"\tTerm Insurance","x":995,"y":-313,"width":250,"height":60},
 		{"id":"728c43315499acd1","type":"text","text":"\tNJ E WELTH","x":1275,"y":-110,"width":250,"height":60},
@@ -15,16 +12,12 @@
 		{"id":"277223a61162f47c","type":"text","text":"\t\t1 cr ","x":900,"y":-110,"width":250,"height":60},
 		{"id":"7b10345bec52458f","type":"text","text":"\t\t2800","x":870,"y":55,"width":250,"height":60},
 		{"id":"3e0e6e33a0f60bfe","type":"text","text":"\t\tSeetu","x":500,"y":-313,"width":250,"height":60},
-		{"id":"de7c970597c879b0","type":"text","text":"","x":219,"y":577,"width":250,"height":60},
 		{"id":"baa3a71846a38e44","type":"text","text":"\t\t8400","x":500,"y":60,"width":250,"height":60},
 		{"id":"70c62a7c98bddd7b","type":"text","text":"\t\t5l","x":500,"y":-110,"width":250,"height":60},
-		{"id":"6aa7be2c10e1ccd8","type":"file","file":"Assets/output (2).png","x":-113,"y":454,"width":1263,"height":753},
 		{"id":"dc53fe23862660ea","type":"text","text":"\t\tInvesment","x":1150,"y":-640,"width":250,"height":60},
-		{"id":"d0472775fe23c15c","x":1420,"y":420,"width":1240,"height":860,"type":"file","file":"Assets/Pasted image 20241030124541.png"}
+		{"id":"d0472775fe23c15c","type":"file","file":"Assets/Pasted image 20241030124541.png","x":854,"y":480,"width":1327,"height":921}
 	],
 	"edges":[
-		{"id":"2e62ad9b318fe94c","fromNode":"535199b090c16649","fromSide":"bottom","toNode":"ef74733284ce1727","toSide":"top"},
-		{"id":"edd9b7c74771c9f8","fromNode":"2ee0d6a1e1ff73e0","fromSide":"bottom","toNode":"535199b090c16649","toSide":"top"},
 		{"id":"840e1aee944ee85f","fromNode":"dc53fe23862660ea","fromSide":"bottom","toNode":"e602613ac159b960","toSide":"top"},
 		{"id":"c6c17e4029ec2c55","fromNode":"e602613ac159b960","fromSide":"bottom","toNode":"277223a61162f47c","toSide":"top"},
 		{"id":"2ec016f6bad73191","fromNode":"dc53fe23862660ea","fromSide":"bottom","toNode":"71c1a6930569bf0f","toSide":"top","color":"1","label":">= 5000"},

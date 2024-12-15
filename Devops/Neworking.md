@@ -1,3 +1,7 @@
+---
+tags:
+  - Devops
+---
 
 ![[Pasted image 20240925113544.png]]
 

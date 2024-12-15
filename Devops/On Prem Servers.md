@@ -1,3 +1,7 @@
+---
+tags:
+  - Devops
+---
 
 ![[Pasted image 20241003111036.png]]
 
@@ -8,11 +12,10 @@ Co location Date Center  
 
 ![[Pasted image 20241003114300.png]]
 
-[[SAN,NAS]]
 
-[[Virutualization]]
 
 **Business Continuity and Disaster Recovery (BCDR)** involves strategies and processes designed to ensure that critical business functions can continue during and after a disaster. It combines **backup systems** and **disaster recovery (DR)** plans to mitigate the impact of data loss or system outages.
 
 
 
+![[Pasted image 20241113141625.png]]

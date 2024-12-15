@@ -1,3 +1,8 @@
+---
+tags:
+  - Devops
+---
+
 - **CNAME (Canonical Name Record)**:
     
     - This is a DNS record used to alias one domain name to another. For example, if you have two domains like `www.example.com` and `example.com`, you can create a CNAME record that points `www.example.com` to `example.com`. It tells DNS resolvers that one domain is just an alias for another, allowing for easier management of multiple domain names that point to the same IP or server.

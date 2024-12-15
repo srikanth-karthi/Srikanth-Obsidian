@@ -1,3 +1,7 @@
+---
+tags:
+  - Devops
+---
 
 Virtualization is the process of creating a virtual (rather than physical) version of something, such as a server, storage device, or network resource. By using virtualization, organizations can run multiple operating systems and applications on a single physical server or resource, which improves efficiency and flexibility in IT environments.
 

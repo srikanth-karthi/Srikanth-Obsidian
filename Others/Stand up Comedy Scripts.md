@@ -1,3 +1,7 @@
+---
+tags:
+  - others
+---
 ### . **Opening:**
 
 - **You:** "Good evening, everyone! We’re [your names], and we work in tech. Which means… we drink a lot of coffee and explain to our families that no, we can’t fix the Wi-Fi."

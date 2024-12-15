@@ -1,3 +1,7 @@
+---
+tags:
+  - Devops
+---
 SAN (Storage Area Network) and NAS (Network Attached Storage) are two types of data storage technologies that are used to store, manage, and access data in enterprise environments. Each has its own architecture, use cases, and advantages. Let me break down each:
 
 ### **SAN (Storage Area Network)**

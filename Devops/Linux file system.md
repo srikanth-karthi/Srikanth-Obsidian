@@ -1,3 +1,7 @@
+---
+tags:
+  - Devops
+---
 
 The Linux file system is the structure and organization that Linux uses to manage and store data on devices like hard drives, SSDs, and other storage media. It’s hierarchical in nature, resembling a tree, with the **root directory (`/`)** at the base and various files and subdirectories branching off from there.
 

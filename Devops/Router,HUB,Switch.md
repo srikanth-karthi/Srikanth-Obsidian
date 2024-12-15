@@ -1,3 +1,7 @@
+---
+tags:
+  - Devops
+---
 The main differences between a **hub**, a **switch**, and a **router** are related to how they manage and direct network traffic. Here’s a breakdown:
 
 ### 1. **Hub**

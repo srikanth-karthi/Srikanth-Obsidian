@@ -1,3 +1,7 @@
+---
+tags:
+  - Devops
+---
 
 The IANA (Internet Assigned Numbers Authority) is a department of ICANN (Internet Corporation for Assigned Names and Numbers) that oversees global IP address allocation, domain name system (DNS) root zone management, and other Internet protocol resources. Essentially, IANA coordinates the top-level domain (TLD) names (such as .com, .org, etc.) and the assignment of IP address ranges, making sure everything is managed in an orderly and global way.
 

@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "61c4998ea7fc6fe4",
+        "id": "e96357ad7d890c26",
         "type": "tabs",
         "children": [
           {
-            "id": "055f6beca0322b22",
+            "id": "c216fb390da33e0a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "PLAN.canvas",
-                "viewState": {
-                  "x": 2125.8116605113396,
-                  "y": 889.3452758083613,
-                  "zoom": -0.7771355992313663
-                }
+                "file": "K8/User Namespaces.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "PLAN"
+              "icon": "lucide-file",
+              "title": "User Namespaces"
             }
           }
         ]
@@ -76,12 +73,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 296.5
   },
   "right": {
     "id": "1f7e3208f0d93cfa",
@@ -166,51 +162,59 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "055f6beca0322b22",
+  "active": "c216fb390da33e0a",
   "lastOpenFiles": [
-    "PLAN.canvas",
+    "K8/ReplicaSets.md",
+    "K8/QoS Classes.md",
+    "K8/Process ID.md",
+    "K8/doubts.md",
+    "K8/Disruptions.md",
+    "K8/DaemonSets.md",
+    "K8/CronJob.md",
+    "K8/Container Lifecycle Hooks.md",
+    "K8/Autoscaling Workloads.md",
+    "K8/Admission Controllers.md",
+    "K8/Garbage Collection.md",
+    "K8/Network Policies.md",
+    "K8/Oidc vs Oauth.md",
+    "K8/StatefulSets.md",
+    "K8/Sidecar Containers.md",
+    "K8/RuntimeClass.md",
+    "Srikanth/PLAN.canvas",
+    "Srikanth/Srikanth.md",
+    "K8/User Namespaces.md",
+    "K8/Pod.md",
+    "K8/Leases.md",
+    "K8/Jobs.md",
+    "K8/Init Containers.md",
+    "K8/IngressClass.md",
+    "K8/Images.md",
+    "K8/Downward API.md",
+    "K8/Canary deployments.md",
+    "Untitled.canvas",
+    "Srikanth",
+    "Others",
+    "Untitled 3.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled 4.canvas",
+    "Untitled 1",
+    "Assets/Pasted image 20241003114300.png",
+    "Assets/Pasted image 20240925115537.png",
+    "Assets/Pasted image 20241202152041.png",
+    "K8",
+    "Assets/Pasted image 20241113141625.png",
     "Assets/Pasted image 20241030124541.png",
     "Assets/Pasted image 20241030124453.png",
-    "Srikanth.md",
-    "Devops/Terraform.md",
-    "Devops/Linux file system.md",
-    "Devops/linux Cmds.md",
-    "Devops/Devops.md",
-    "Devops/Bash Scripting.md",
-    "Devops/Address Record.md",
     "Assets/output (3).png",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "README.md",
-    "Presidio/Day 2.md",
     "Assets/output (2).png",
     "Assets/output (2) 1.png",
     "Assets/Pasted image 20241018204509.png",
-    "Assets/Pasted image 20241018204411.png",
-    "Assets/Pasted image 20241018204403.png",
     "Assets/Updated_Monthly_Financial_Plan_with_Total.csv",
-    "Assets/Pasted image 20241015181639.png",
-    "Devops/SAN,NAS.md",
     "SMS Delivery Plan and API Reference.xlsx",
     "Screenshorts",
-    "Assets/Pasted image 20241003145836.png",
-    "Devops/On Prem Servers.md",
-    "Devops/SSL,TLS.md",
-    "Devops/Dns.md",
     "Assets/1-Linux+Structure.pdf",
-    "Devops/Virutualization.md",
-    "Devops/Bandit.md",
-    "Devops/Router,HUB,Switch.md",
-    "Devops/Neworking.md",
-    "Devops/Stand up Comedy Scripts.md",
-    "Presidio/Devops Task.md",
-    "Presidio/Presidio.md",
-    "2024-09-26.md",
     "Presidio",
-    "2024-09-25.md",
-    "Assets",
-    "Welcome.md",
-    "challenge.md",
-    "Devops"
+    "Assets"
   ]
 }
