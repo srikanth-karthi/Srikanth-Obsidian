@@ -7,16 +7,31 @@ COMMIT_MESSAGE="daily commit on $(date '+%Y-%m-%d %H:%M:%S')"
 # Navigate to the repository
 cd "$REPO_DIR" || { echo "Error: Cannot access $REPO_DIR"; exit 1; }
 
-# Check if there are any changes
+# Check for changes
 if [[ -n $(git status --porcelain) ]]; then
-    echo "Changes detected. Starting git operations..."
+    echo "Changes detected. Stashing local changes..."
 
-    # Git operations
+    # Stash any local unstaged changes
+    git add .
+    git stash push -m "Pre-pull stash on $(date '+%Y-%m-%d %H:%M:%S')"
+
+    # Pull remote changes with rebase
+    echo "Pulling latest changes..."
+    git pull --rebase origin main || { echo "Error: Failed to pull changes"; exit 1; }
+
+    # Apply stashed changes
+    echo "Applying stashed changes..."
+    git stash pop || { echo "Error: Failed to apply stashed changes"; exit 1; }
+
+    # Commit and push
+    echo "Committing and pushing changes..."
     git add .
     git commit -m "$COMMIT_MESSAGE"
-    git push origin main  # Replace 'main' with your branch name if different
+    git push origin main || { echo "Error: Failed to push changes"; exit 1; }
 
-    echo "Successfully pushed changes on $(date)"
+    echo "Successfully pulled, committed, and pushed changes on $(date)"
 else
-    echo "No changes to commit. Exiting at $(date)."
+    echo "No changes to commit. Pulling latest changes..."
+    git pull --rebase origin main || { echo "Error: Failed to pull changes"; exit 1; }
+    echo "Repository is up-to-date. Exiting at $(date)."
 fi
