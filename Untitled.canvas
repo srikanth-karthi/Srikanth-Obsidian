@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"62970648a2b2d64e","x":20,"y":-90,"width":250,"height":130,"type":"text","text":"client-1\neg ,l&t"},
+		{"id":"62394ec82e824803","x":-420,"y":-120,"width":250,"height":60,"type":"text","text":"backend"},
+		{"id":"57601ae1a1c301aa","x":20,"y":120,"width":250,"height":60,"type":"text","text":"client-3\neg:urc\n"},
+		{"id":"6d8bf6a7a0e84271","x":20,"y":-280,"width":250,"height":60,"type":"text","text":"main db"}
+	],
+	"edges":[
+		{"id":"5530c69bff23eb43","fromNode":"62394ec82e824803","fromSide":"right","toNode":"6d8bf6a7a0e84271","toSide":"left"},
+		{"id":"fd695df3da2d612d","fromNode":"62394ec82e824803","fromSide":"right","toNode":"62970648a2b2d64e","toSide":"left"},
+		{"id":"7b21880f6c874a64","fromNode":"62394ec82e824803","fromSide":"right","toNode":"57601ae1a1c301aa","toSide":"left"}
+	]
+}

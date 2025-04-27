@@ -4,24 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "d950478f474c5f80",
+        "id": "5161e30b50cbb13b",
         "type": "tabs",
         "children": [
           {
-            "id": "223f419d2da188a9",
+            "id": "08834258227cea92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gateway API.md",
+                "file": "ML/Learning Rate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gateway API"
+              "title": "Learning Rate"
+            }
+          },
+          {
+            "id": "e146024076ff2b7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Learning Rate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning Rate"
+            }
+          },
+          {
+            "id": "e570bd18465f3c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Batch Size.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Batch Size"
+            }
+          },
+          {
+            "id": "31b3356e0e136361",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "01b1556e0343da74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Batch Size.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Batch Size"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +93,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#k8",
+                "query": "learning pa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 200
   },
   "right": {
     "id": "1f7e3208f0d93cfa",
@@ -162,59 +216,60 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc7fb43d09e49de6",
+  "active": "e146024076ff2b7a",
   "lastOpenFiles": [
-    "README.md",
-    "auto_git_push.log",
-    "Clippings/EKS Cluster Using Terraform..md",
-    "auto_git_push.sh",
-    "K8/CronJob.md",
-    "Devops/OAUTH 2.0.md",
-    "Devops/Simplify Docker Builds with Jenkins Shared Library.md",
-    "Srikanth/Srikanth.md",
+    "ML/Batch Size.md",
+    "ML/Epoch.md",
+    "ML/Learning Rate.md",
+    "ML/🧮 **What is Batch Size in Machine Learning?**.md",
+    "ML/Ml.md",
+    "Ad setup.md",
+    "Untitled.canvas 15-40-52-541.canvas",
+    "Untitled 1/Untitled.md",
+    "Blockchain/Blockchain, Mining, and Transactions.md",
+    "ML/Untitled 2",
+    "ML",
+    "Blockchain/**Blockchain Fundamentals and Mining Explained**.md",
+    "Aws/Aws.md",
     "Srikanth/PLAN.canvas",
-    "Clippings/Raft Consensus Algorithm - GeeksforGeeks.md",
-    "Devops/Address Record.md",
-    "Clippings",
-    "K8/User Namespaces.md",
-    "K8/ReplicaSets.md",
-    "K8/QoS Classes.md",
-    "K8/Process ID.md",
-    "K8/doubts.md",
-    "K8/Disruptions.md",
-    "K8/DaemonSets.md",
-    "K8/Container Lifecycle Hooks.md",
-    "K8/Autoscaling Workloads.md",
-    "K8/Admission Controllers.md",
-    "K8/Garbage Collection.md",
-    "K8/Network Policies.md",
-    "K8/Oidc vs Oauth.md",
-    "K8/StatefulSets.md",
-    "K8/Sidecar Containers.md",
-    "K8/RuntimeClass.md",
-    "K8/Pod.md",
-    "K8/Leases.md",
+    "CBA.md",
+    "README.md",
     "Untitled.canvas",
-    "Srikanth",
-    "Others",
-    "Untitled 3.canvas",
+    "2025-02-01.md",
+    "Srikanth/Srikanth.md",
     "Untitled 1.canvas",
-    "Untitled 2.canvas",
-    "Untitled 4.canvas",
+    "Aws/Intergy.md",
     "Untitled 1",
-    "Assets/Pasted image 20241003114300.png",
-    "Assets/Pasted image 20240925115537.png",
-    "Assets/Pasted image 20241202152041.png",
-    "K8",
-    "Assets/Pasted image 20241113141625.png",
-    "Assets/Pasted image 20241030124541.png",
+    "Untitled",
+    "Aws/Amazon Glacier.md",
+    "Aws/Amazon S3.md",
+    "Aws/Ec2.md",
+    "Aws/ALB.md",
+    "Aws/Ebs.md",
+    "Aws/Vpc.md",
+    "Clippings/It’s all a Process Analysis on how Docker works.md",
+    "Clippings/AWS Site to Site VPN Using OpenSwan IPSEC Step By Step Tutorial.md",
+    "Devops/linux Cmds.md",
+    "Aws",
+    "K8/StatefulSets.md",
+    "2025-01-19.md",
+    "Blockchain",
+    "Assets/Pasted image 20250119200300.png",
     "Assets/Pasted image 20241030124453.png",
+    "Assets/Pasted image 20241030124541.png",
     "Assets/output (3).png",
-    "Assets/output (2).png",
-    "Assets/output (2) 1.png",
-    "Assets/Pasted image 20241018204509.png",
-    "Assets/Updated_Monthly_Financial_Plan_with_Total.csv",
-    "SMS Delivery Plan and API Reference.xlsx",
-    "Screenshorts"
+    "Assets/Pasted image 20241202152041.png",
+    "Assets/Pasted image 20241113141625.png",
+    "Assets/Pasted image 20241003114300.png",
+    "Assets/Pasted image 20241003111036.png",
+    "Assets/Pasted image 20240925122412.png",
+    "Assets/Pasted image 20240925113544.png",
+    "Terraform",
+    "auto_git_push.log",
+    "auto_git_push.sh",
+    "Clippings",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 4.canvas"
   ]
 }
